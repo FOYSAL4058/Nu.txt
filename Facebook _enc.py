@@ -1,4 +1,4 @@
-#ENCODED By : SWAG GANG 
+#ENCODED By : FOYSAL SK 
 #ENCRYPTION : PY3 MARSHAL
 
 import marshal
